@@ -71,7 +71,7 @@ There are three types of search engines
 **INDEXING**  
 Because Elasticsearch is schemaless, it is easy to index unstructured data and dynamic fields without defining the schema of the index in advance. Earlier Solr versions required a defined schema before indexing data. However, Solr now supports a schemaless mode.
 
-## SUMMARY  
+# SUMMARY
 According to DB-Engines, database management systems, and search engines according to their popularity, **Elasticsearch is ranked number one**, and **Solr is ranked number three**.
 Both Solr and Elasticsearch write indexes in Lucene. But, since differences exist in sharding and replication, there are also differences in their files and architectures. Additionally, Elasticsearch has native DSL support while Solr has a robust Standard Query Parser that aligns to Lucene syntax.  
 Solr uses request handlers to ingest data from XML files, CSV files, databases, Microsoft Word documents, and PDFs. With native support for the Apache Tika library.  
@@ -79,7 +79,7 @@ Elasticsearch, on the other hand, is completely JSON-based. It supports data ing
 **Solr is more suited for search applications that use massive amounts of static data.**  
 **Elasticsearch is more suited to modern web applications where data is carried in and out in JSON format.**  
 
-## CONCLUSION   
+##CONCLUSION
 Both of these technologies are quite easy to begin working with.**Solr offers great functionalities in the field of information retrieval, but Elasticsearch is much easier to take into production and scale.**  
 **Lucene is widely used as a standard foundation for non-research search applications.**
 we have to choose our tool as per our requirement.
