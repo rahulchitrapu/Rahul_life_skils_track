@@ -9,13 +9,13 @@ There are three types of search engines
     3. Lucene**
 
 ## Elastic search
-    Elasticsearch is a distributed search and analytics engine built on Apache Lucene. Since its release in 2010, Elasticsearch has quickly become the most popular search engine and is commonly used for log analytics, full-text search, security intelligence, business analytics, and operational intelligence use cases.
+Elasticsearch is a distributed search and analytics engine built on Apache Lucene. Since its release in 2010, Elasticsearch has quickly become the most popular search engine and is commonly used for log analytics, full-text search, security intelligence, business analytics, and operational intelligence use cases.
 
-    Elasticsearch allows you to store, search, and analyze huge volumes of data quickly and in near real-time and give back answers in milliseconds. It's able to achieve fast search responses because instead of searching the text directly, it searches an index.
+Elasticsearch allows you to store, search, and analyze huge volumes of data quickly and in near real-time and give back answers in milliseconds. It's able to achieve fast search responses because instead of searching the text directly, it searches an index.
 
-    Overview. Full-text search queries and performs linguistic searches against documents. It includes single or multiple words or phrases and returns documents that match search conditions. ElasticSearch is a search engine based on Apache Lucene, a free and open-source information retrieval software library.
+Overview. Full-text search queries and performs linguistic searches against documents. It includes single or multiple words or phrases and returns documents that match search conditions. ElasticSearch is a search engine based on Apache Lucene, a free and open-source information retrieval software library.
     
-    Both MySQL and Elasticsearch provide a powerful capability of full-text search. If your system is using MySQL as the data store, the feature of full-text search can be quickly enabled by creating full-text indexes for the target data fields.
+Both MySQL and Elasticsearch provide a powerful capability of full-text search. If your system is using MySQL as the data store, the feature of full-text search can be quickly enabled by creating full-text indexes for the target data fields.
 
 ### Benefits 
 - lots of search options
@@ -33,11 +33,11 @@ There are three types of search engines
 ***
 ## Solr
 
-    Solr is an open-source search platform that is used to build search applications. It was built on top of Lucene (a full-text search engine). Solr is enterprise-ready, fast, and highly scalable. The applications built using Solr are sophisticated and deliver high performance.   
+Solr is an open-source search platform that is used to build search applications. It was built on top of Lucene (a full-text search engine). Solr is enterprise-ready, fast, and highly scalable. The applications built using Solr are sophisticated and deliver high performance.   
 
-    Apache Solr stores the data it indexes in the local filesystem by default. HDFS (Hadoop Distributed File System) provides several benefits, such as a large scale and distributed storage with redundancy and failover capabilities. Apache Solr supports storing data in HDFS.
+Apache Solr stores the data it indexes in the local filesystem by default. HDFS (Hadoop Distributed File System) provides several benefits, such as a large scale and distributed storage with redundancy and failover capabilities. Apache Solr supports storing data in HDFS.
 
-    Solr runs as a standalone full-text search server.
+Solr runs as a standalone full-text search server.
 
 ### Benefits 
 - Advanced Full-Text Search Capabilities. 
@@ -56,7 +56,7 @@ There are three types of search engines
 ***
 
 ## Lucene
-    Apache Lucene is a free and open-source search engine software library, originally written in Java by Doug Cutting. It is supported by the Apache Software Foundation and is released under the Apache Software License. Lucene is widely used as a standard foundation for non-research search applications.
+Apache Lucene is a free and open-source search engine software library, originally written in Java by Doug Cutting. It is supported by the Apache Software Foundation and is released under the Apache Software License. Lucene is widely used as a standard foundation for non-research search applications.
 
 ### Benefits 
 - Speed and high-performance indexing    
