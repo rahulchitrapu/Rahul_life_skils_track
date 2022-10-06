@@ -4,9 +4,9 @@
 **Full-text search is meant to search large amounts of text. For example, a search engine will use a full-text search to look for keywords in all the web pages that it indexed. The key to this technique is indexing.**
 
 There are three types of search engines  
-    **<em>1.Elastic Search  
+    **1.Elastic Search  
     2. Solr  
-    3.Lucene<em>**
+    3.Lucene**
 
 ## Elastic search
     Elasticsearch is a distributed search and analytics engine built on Apache Lucene. Since its release in 2010, Elasticsearch has quickly become the most popular search engine and is commonly used for log analytics, full-text search, security intelligence, business analytics, and operational intelligence use cases.
