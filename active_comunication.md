@@ -52,6 +52,7 @@ passive communication is an ineffective way of getting one’s views across. Pas
 ## When do you switch into Aggressive communication styles in your day to day life?
 - Aggressiveness is a mode of communication and behavior where one expresses their feelings, needs, and rights without regard or respect for the needs, rights, and feelings of others. Examples of an aggressive communication style include saying things like: "This is all your fault." "It's my way or the highway."
 
+
 ## When do you switch into Passive Aggressive (sarcasm/gossiping/taunts/silent treatment and others) communication styles in your day to day life?
 - Passive and aggressive communication might work better on some occasions. For example, if you are feeling fearful that you are about to be harmed, passive communication may help to defuse the situation and aggressive communication might prevent the problem from getting worse.
 
